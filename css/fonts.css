@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Montserrat-Medium' ;
+    src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular' ;
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Inconsolata-Light';
+    src: url(../font/Inconsolata-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Inconsolata-Medium';
+    src: url(../font/Inconsolata-Medium.ttf);
+}
